@@ -138,7 +138,7 @@ Based on the metrics of ROC_AUC , Accuracy, Precision, Recall, and False_Positiv
 
 For this particular dataset, the `RandomForestClassifier` and `XGBoost Classifier` are the recommended machine learning algorithms.
 
-| Model | ROC_AUC | Accuracy | Precision | Recall | False_Negative |
+| Model | ROC_AUC | Accuracy | Precision | Recall | False_Positives |
 |:---------|:---------|:---------|:---------|:---------|:---------|
 | Random Forest | 0.997 | 0.974 | 0.933 | 1.0 | 3 | 
 | XGBoost  | 0.997 | 0.974 | 0.933 | 1.0 | 3 | 
@@ -157,7 +157,7 @@ For this particular dataset, the `RandomForestClassifier` and `XGBoost Classifie
 **Notebook**    
 You can view the full analysis here:
 
-[Exploratory Data Analysis]
+[Exploratory Data Analysis]01_EDA_Breast_Cancer_Wisconsin_Diagnostic
 
 
 **Reference:** 
