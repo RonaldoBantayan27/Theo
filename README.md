@@ -157,8 +157,8 @@ For this particular dataset, the `RandomForestClassifier` and `XGBoost Classifie
 **Notebook**    
 You can view the full analysis here:
 
-[Exploratory Data Analysis]01_EDA_Breast_Cancer_Wisconsin_Diagnostic
-
+[Exploratory Data Analysis]
+https://github.com/RonaldoBantayan27/Theo/blob/main/01_EDA_Breast_Cancer_Wisconsin_Diagnostic.ipynb
 
 **Reference:** 
 Ronaldo Bantayan (Author) Email: one01bant@yahoo.com     
