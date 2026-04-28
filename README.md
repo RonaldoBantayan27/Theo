@@ -159,6 +159,24 @@ You can view the full analysis here:
 
 [Exploratory Data Analysis]
 https://github.com/RonaldoBantayan27/Theo/blob/main/01_EDA_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[Logistic Regression]
+https://github.com/RonaldoBantayan27/Theo/blob/main/02_LR_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[XG Boost]
+https://github.com/RonaldoBantayan27/Theo/blob/main/03_XGB_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[Decision Tree]
+https://github.com/RonaldoBantayan27/Theo/blob/main/04_DT_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[SVC]
+https://github.com/RonaldoBantayan27/Theo/blob/main/05_SVC_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[Keras]
+https://github.com/RonaldoBantayan27/Theo/blob/main/06_Keras_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[KNeighbors]
+https://github.com/RonaldoBantayan27/Theo/blob/main/07_KNN_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[GaussianNB]
+https://github.com/RonaldoBantayan27/Theo/blob/main/08_GNB_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[Random Forest]
+https://github.com/RonaldoBantayan27/Theo/blob/main/09_RF_Breast_Cancer_Wisconsin_Diagnostic.ipynb
+[Summary]
+https://github.com/RonaldoBantayan27/Theo/blob/main/10_Summary_Breast_Cancer_Wisconsin_Diagnostic.ipynb
 
 **Reference:** 
 Ronaldo Bantayan (Author) Email: one01bant@yahoo.com     
